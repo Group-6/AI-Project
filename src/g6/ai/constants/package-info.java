@@ -9,4 +9,4 @@
  * All the contants related to AI project
  *
  */
-package com.ai.constants;
+package g6.ai.constants;
