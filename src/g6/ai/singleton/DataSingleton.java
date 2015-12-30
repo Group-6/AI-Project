@@ -13,14 +13,14 @@ public class DataSingleton {
 
 	}
 
-	public static DataSingleton getDataSingleton(){
+	public synchronized static DataSingleton getDataSingleton(){
 		if(instance == null){
 			instance =  new DataSingleton();
 
 		} 
 		return instance;
-
 	}
 
+	
 
 }
