@@ -1,0 +1,8 @@
+Dec 21, 2015 10:02:50 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel <init>
+INFO: You are using Java version 1.7.0_72...
+Dec 21, 2015 10:02:50 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel <init>
+WARNING: ... not sufficient. You need at least 1.5 (5.0)
+Dec 21, 2015 10:03:13 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel setVisible
+FINE: Using directory for decoded files: .\
+Dec 21, 2015 10:03:13 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel setVisible
+FINE: Decoding probability: 0.5

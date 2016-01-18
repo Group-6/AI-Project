@@ -1,0 +1,18 @@
+#Sample SOM prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 4, 
+#   C:\Users\prashant\Desktop\Research\Java SOM toolbox\Sample SOM.prop]
+#
+#Wed Dec 24 02:19:49 EST 2014
+namePrefix=MySOM
+vectorFileName=MySOM.tfxidf
+learnrate=0.7
+outputDirectory=.\\output
+tau=1.0
+sparseData=no
+workingDirectory=.
+isNormalized=no
+numIterations=1500
+randomSeed=7
+ySize=6
+templateFileName=MySOM.tv
+xSize=6
